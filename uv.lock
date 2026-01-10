@@ -2634,12 +2634,14 @@ source = { virtual = "." }
 dependencies = [
     { name = "jupyter" },
     { name = "stable-baselines3", extra = ["extra"] },
+    { name = "tensorboard" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "stable-baselines3", extras = ["extra"], specifier = ">=2.7.1" },
+    { name = "tensorboard", specifier = ">=2.20.0" },
 ]
 
 [[package]]

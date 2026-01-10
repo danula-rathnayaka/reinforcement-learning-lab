@@ -7,4 +7,5 @@ requires-python = ">=3.10"
 dependencies = [
     "jupyter>=1.1.1",
     "stable-baselines3[extra]>=2.7.1",
+    "tensorboard>=2.20.0",
 ]
