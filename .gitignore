@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .idea
+
+# Extracted from http://www.atarimania.com/roms/Roms.rar
+HC ROMS
+Roms
