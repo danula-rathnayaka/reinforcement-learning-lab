@@ -13,3 +13,6 @@ wheels/
 # Extracted from http://www.atarimania.com/roms/Roms.rar
 HC ROMS
 Roms
+
+# Extracted from https://www.swig.org/download.html
+swigwin-4.4.1

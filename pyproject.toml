@@ -7,8 +7,9 @@ requires-python = ">=3.10"
 dependencies = [
     "ale-py>=0.11.2",
     "autorom[accept-rom-license]>=0.6.1",
-    "gymnasium[atari]>=1.2.3",
+    "gymnasium[atari,box2d]>=1.2.3",
     "jupyter>=1.1.1",
+    "pyglet>=2.1.12",
     "stable-baselines3[extra]>=2.7.1",
     "tensorboard>=2.20.0",
 ]
